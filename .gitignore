@@ -1,0 +1,24 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Dependencies
+node_modules/
+
+# Env
+.env
+.env.local
+.env.*.local
+
+# Build / cache
+dist/
+build/
+.cache/
+*.log
+npm-debug.log*
+
+# IDE (keep .cursor for workshop)
+.idea/
+.vscode/
+*.swp
+*.swo
